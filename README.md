@@ -62,3 +62,6 @@ PySpark utilizes a checkpoint directory (C:\spark_checkpoints) to maintain state
     Execute Consumer: Run consumer.py to process and store flux data.
 
     Execute API: Initialize the FastAPI server to provide the data source for the dashboard.
+
+Screenshots:
+<img width="1636" height="864" alt="image" src="https://github.com/user-attachments/assets/620781f8-eb11-4475-b526-2e871e2ca558" />
